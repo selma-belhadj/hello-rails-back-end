@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # hello-rails-back-end app
-This exercise is going to have you create a React front-end with a Rails back-end and connect them to display a random message.
+This exercise is going to create a [React front-end](https://github.com/selma-belhadj/hello-react-front-end) with a Rails back-end and connect them to display a random message.
 
 ## Getting Started
 - clone the repository
