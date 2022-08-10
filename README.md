@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # hello-rails-back-end app
-Theis app is built in order to implement a connection between a Ruby on Rails back-end and React front-end. And to understand the pros and cons of different approaches of connecting Ruby on Rails back-end with React front-end.
+This exercise is going to create a [React front-end](https://github.com/selma-belhadj/hello-react-front-end) with a Rails back-end and connect them to display a random message.
 
 ## Getting Started
 - clone the repository
